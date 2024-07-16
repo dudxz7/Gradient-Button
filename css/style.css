@@ -34,7 +34,7 @@ button::after{
 }
 button:hover{
     z-index: 0;
-    box-shadow: 40px 0 100px #C71585, -40px 0 100px #4B0082;
+    box-shadow: 40px 0 100px #C71584, -40px 0 100px #4B0082;
     color: snow;
     font-weight: 700;
     cursor: pointer;
